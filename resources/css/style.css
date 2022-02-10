@@ -7,6 +7,7 @@ html {
 
 h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
 a {
@@ -30,7 +31,7 @@ footer {
 
 video {
   display: block;
-  margin: 0 auto;
+  margin: 21px auto;
 }
 
 img {
